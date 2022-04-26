@@ -3,7 +3,7 @@
 Il controllo della strip led RGB è molto complessa e il produttore offre una libreria di gestione che contiene tutto il codice di controllo necessario.
 
 
-![This is an image](https://github.com/davidedifilippo/bode_trace_matlab_scripts/blob/main/Second_order_term/modulo_trinomio.png)
+![This is an image](https://github.com/davidedifilippo/strip_neopixel/blob/main/striscia_led_1.png)
 
 ## Inclusione libreria di gestione
 
